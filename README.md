@@ -1,5 +1,5 @@
 # italian_api
-a silly little api to quiz me on Italian words
+a silly little api to quiz me on Italian words.  Feeds my small [widgetkit widget]](https://github.com/joshspicer/widgetkit-daily-italian).
 
 # Deploy
 
